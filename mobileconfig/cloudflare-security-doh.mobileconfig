@@ -3,9 +3,9 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>CleanBrowsing (Security) DNS over HTTPS</string>
+		<string>Cloudflare (Security) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CleanBrowsing (Security) DNS over HTTPS on all networks using the iOS 14 Encrypted DNS feature.</string>
+		<string>This profile enables Cloudflare (Security) DNS over HTTPS on all networks using the iOS 14 Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed</string>
 		<key>PayloadScope</key>
@@ -25,13 +25,13 @@
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>2a0d:2a00:1::2</string>
-						<string>2a0d:2a00:2::2</string>
-						<string>185.228.168.9</string>
-						<string>185.228.169.9</string>
+						<string>1.1.1.2</string>
+						<string>1.0.0.2</string>
+						<string>2606:4700:4700::1112</string>
+						<string>2606:4700:4700::1002</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://doh.cleanbrowsing.org/doh/security-filter/</string>
+					<string>https://security.cloudflare-dns.com/dns-query</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
@@ -40,7 +40,7 @@
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
-				<string>CleanBrowsing (Security) DNS over HTTPS</string>
+				<string>Cloudflare (Security) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
