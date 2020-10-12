@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>CIRA (Security) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CIRA (Security) DNS over HTTPS on all networks using the iOS 14 Encrypted DNS feature.</string>
+		<string>This profile enables CIRA (Security) DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed</string>
 		<key>PayloadScope</key>

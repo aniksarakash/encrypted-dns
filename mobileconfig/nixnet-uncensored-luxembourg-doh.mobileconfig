@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>NixNet (Uncensored Luxembourg) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables NixNet (Uncensored Luxembourg) DNS over HTTPS on all networks using the iOS 14 Encrypted DNS feature.</string>
+		<string>This profile enables NixNet (Uncensored Luxembourg) DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed</string>
 		<key>PayloadScope</key>
