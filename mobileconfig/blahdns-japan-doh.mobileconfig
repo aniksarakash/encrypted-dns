@@ -5,9 +5,9 @@
 		<key>PayloadDisplayName</key>
 		<string>BlahDNS (Japan) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BlahDNS (Japan) DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables BlahDNS (Japan) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed</string>
+		<string>com.apple.dnsSettings.managed.858ae277-e1e1-4a4d-ba48-e7ba21837bc9</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -34,7 +34,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed</string>
+				<string>com.apple.dnsSettings.managed.48c4d28c-26f3-473a-9ce4-7c6cfd163eaa</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
