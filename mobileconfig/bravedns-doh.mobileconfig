@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>BraveDNS DNS over HTTPS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables BraveDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.44a63576-0a00-45de-aa6c-5a72b05be850</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>9d2e0ab3-dd13-4e11-a4fb-56e229045bbd</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>104.26.6.92</string>
+						<string>104.26.7.92</string>
+						<string>172.67.70.173</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://free.bravedns.com/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.85f26b90-b87e-4657-a099-856156e9b6a1</string>
+				<key>PayloadUUID</key>
+				<string>586e17ba-0c8f-4267-9286-9b3576bd05cc</string>
+				<key>PayloadDisplayName</key>
+				<string>BraveDNS DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
