@@ -5,9 +5,9 @@
 		<key>PayloadDisplayName</key>
 		<string>Cloudflare (Security) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Cloudflare (Security) DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Cloudflare (Security) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed</string>
+		<string>com.apple.dnsSettings.managed.090c93b6-bb50-4bee-9bb2-f8bbd2984708</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -36,7 +36,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed</string>
+				<string>com.apple.dnsSettings.managed.7ea2b144-253e-4347-98cb-6ec8adcdeefb</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>

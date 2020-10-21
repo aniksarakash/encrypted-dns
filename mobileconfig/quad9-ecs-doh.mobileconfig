@@ -5,9 +5,9 @@
 		<key>PayloadDisplayName</key>
 		<string>Quad9-ECS DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Quad9 with extended client subnet DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Quad9 with extended client subnet DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed</string>
+		<string>com.apple.dnsSettings.managed.88ced91f-3a79-4ffa-8692-0df6a4f967dd</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -36,7 +36,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed</string>
+				<string>com.apple.dnsSettings.managed.1824a829-94b9-4308-b603-d0849c532944</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>

@@ -5,9 +5,9 @@
 		<key>PayloadDisplayName</key>
 		<string>PowerDNS DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables PowerDNS DNS over HTTPS on all networks using the iOS 14 / Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables PowerDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed</string>
+		<string>com.apple.dnsSettings.managed.81be7f05-0e77-4344-a7eb-d2d60602039e</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -33,7 +33,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed</string>
+				<string>com.apple.dnsSettings.managed.1a3f18c4-8e27-4ff2-ba38-f1da72c19132</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>

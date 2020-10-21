@@ -7,7 +7,7 @@
 		<key>PayloadDescription</key>
 		<string>This profile enables CleanBrowsing DNS over HTTPS (Family Filter) on all networks using the iOS 14 Encrypted DNS feature.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed</string>
+		<string>com.apple.dnsSettings.managed.fa9282e1-ceed-47d3-ada5-2d2ddd789ba2</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -36,7 +36,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed</string>
+				<string>com.apple.dnsSettings.managed.7b212169-d4b9-4b81-ab38-1c9515bcfd5d</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
