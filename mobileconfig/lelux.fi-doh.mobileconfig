@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>lelux.fi DNS over HTTPS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables lelux.fi DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.ddaedba4-752c-440b-857a-41f8e099231a</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>3f97e766-19dc-4f70-afea-61fcc710fc81</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>51.158.147.50</string>
+						<string>2001:bc8:2db9:100::853</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://resolver-eu.lelux.fi/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.e60f844d-ea19-43bd-8e66-00ab63291cb0</string>
+				<key>PayloadUUID</key>
+				<string>23d6319b-6dfc-4dbe-887f-35d782863e00</string>
+				<key>PayloadDisplayName</key>
+				<string>lelux.fi DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
