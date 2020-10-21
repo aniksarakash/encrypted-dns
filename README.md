@@ -7,4 +7,16 @@
 
 https://mobileconfigs.netlify.app
 
-Configuration files to easily set your Apple device to use encrypted DNS by your chosen provider systemwide. Requires iOS 14, iPadOS 14, tvOS 14 or macOS Big Sur.
+Configuration files to easily set your Apple device to use encrypted DNS by your chosen provider systemwide.
+
+## Install
+
+Requirements:
+
+- iOS 14, iPadOS 14, tvOS 14, or macOS Big Sur.
+- Use Safari web browser for opening the `.mobileconfig` to recieve the install prompt.
+
+## Note
+
+If you're not comfortable installing from the website, you can also install straight from GitLab.com by navigating to a profile (in Safari) within [/mobileconfig](https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs/-/tree/master/mobileconfig) and selecting "Open raw." For example, this is 42l's DoH profile from the repo:
+- https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs/-/raw/master/mobileconfig/42l-doh.mobileconfig
