@@ -17,6 +17,8 @@
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
 		<array>
 			<dict>
 				<key>DNSSettings</key>
@@ -40,6 +42,8 @@
 				<string>Adhole (Germany) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ProhibitDisablement</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
