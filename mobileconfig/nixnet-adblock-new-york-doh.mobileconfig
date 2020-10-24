@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>NixNet (Adblock New York) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables NixNet (Adblock New York) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables NixNet (Adblock New York) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.740dcb9b-bfd9-4de2-a1d5-1bab8d488ec9</string>
 		<key>PayloadScope</key>

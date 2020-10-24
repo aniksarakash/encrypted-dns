@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>LibreDNS (Uncensored) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables LibreDNS (Uncensored) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables LibreDNS (Uncensored) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.b612565c-ea06-4c26-862c-c3846ca0992a</string>
 		<key>PayloadScope</key>

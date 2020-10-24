@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>BlahDNS (Finland) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BlahDNS (Finland) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables BlahDNS (Finland) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.3a696c1d-0a5c-483c-832d-e2010daf43f7</string>
 		<key>PayloadScope</key>

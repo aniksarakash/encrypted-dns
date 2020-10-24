@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>pi-dns.com (East Asia) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables pi-dns.com (East Asia) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables pi-dns.com (East Asia) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.4908a0a0-e33b-445a-aa51-d3c9ce3e5b8e</string>
 		<key>PayloadScope</key>

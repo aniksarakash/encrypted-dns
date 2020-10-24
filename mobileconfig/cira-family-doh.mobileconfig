@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>CIRA Canadian Shield (Family) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CIRA Canadian Shield (Family) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables CIRA Canadian Shield (Family) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.aed46a55-8be3-4ec7-8c3b-70f6257856a0</string>
 		<key>PayloadScope</key>

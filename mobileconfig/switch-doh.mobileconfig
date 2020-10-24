@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>SWITCH DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables SWITCH DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables SWITCH DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.88c9fced-551e-4034-b9f7-badf77eab966</string>
 		<key>PayloadScope</key>

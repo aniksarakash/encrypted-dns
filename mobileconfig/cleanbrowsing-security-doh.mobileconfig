@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>CleanBrowsing (Security) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CleanBrowsing (Security) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables CleanBrowsing (Security) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.51790fc9-f8b5-4bfd-8cc8-2abe15af72f9</string>
 		<key>PayloadScope</key>

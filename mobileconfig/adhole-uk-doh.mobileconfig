@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>Adhole (UK) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Adhole (UK) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Adhole (UK) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.00a04d17-935f-416c-b207-b4b0bb48f244</string>
 		<key>PayloadScope</key>

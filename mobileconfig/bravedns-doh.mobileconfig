@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>BraveDNS DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BraveDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables BraveDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.44a63576-0a00-45de-aa6c-5a72b05be850</string>
 		<key>PayloadScope</key>

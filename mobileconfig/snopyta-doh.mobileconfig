@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>Snopyta DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Snopyta DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Snopyta DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.09cd68c1-d572-4d1e-b02f-225f99ffd939</string>
 		<key>PayloadScope</key>

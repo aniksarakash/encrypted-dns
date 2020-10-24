@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>Uncensored DNS (Unicast) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Uncensored DNS (Unicast) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Uncensored DNS (Unicast) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.f231dfa5-0cf7-47d9-8ae7-148a585d721a</string>
 		<key>PayloadScope</key>

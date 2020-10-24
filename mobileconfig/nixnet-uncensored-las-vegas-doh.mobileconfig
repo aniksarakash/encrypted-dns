@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>NixNet (Uncensored Las Vegas) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables NixNet (Uncensored Las Vegas) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables NixNet (Uncensored Las Vegas) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.d35c7913-3b8a-484f-aa92-479121b55f82</string>
 		<key>PayloadScope</key>

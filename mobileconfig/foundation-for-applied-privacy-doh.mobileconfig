@@ -5,7 +5,7 @@
 		<key>PayloadDisplayName</key>
 		<string>Foundation for Applied Privacy DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Foundation for Applied Privacy DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<string>This profile enables Foundation for Applied Privacy DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.94d4404d-be4e-4ad5-83c8-2a56433f33a5</string>
 		<key>PayloadScope</key>
