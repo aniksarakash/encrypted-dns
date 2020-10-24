@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>aaflalo.me DNS over TLS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables aaflalo.me DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.2e773340-8545-4657-b098-2043a3950c7e</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>3bcf266b-9c70-4bb3-875a-f85b8d1dd8d0</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>168.235.81.167</string>
+					</array>
+					<key>ServerURL</key>
+					<string>dns-nyc.aaflalo.me</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.b626c8a6-c7c9-49a0-b33b-946f0235a013</string>
+				<key>PayloadUUID</key>
+				<string>025a195b-8d40-47bf-bf4f-4f529348f28e</string>
+				<key>PayloadDisplayName</key>
+				<string>aaflalo.me DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>

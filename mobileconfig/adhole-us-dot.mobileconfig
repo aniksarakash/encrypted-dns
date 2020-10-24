@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Adhole (US) DNS over TLS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Adhole (US) DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.8811d4b0-b8df-4941-a7d5-6379fe093707</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>d6637d5c-5c85-48c2-8b8b-09b4ad4481e2</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>63.142.251.101</string>
+						<string>2606:cd80:0:47:0:0:0:871a</string>
+					</array>
+					<key>ServerURL</key>
+					<string>us.adhole.org</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.32594f53-a71b-4d05-b0c8-6d0658b6b8f9</string>
+				<key>PayloadUUID</key>
+				<string>a72a9c58-b342-47a3-be84-f82440542a46</string>
+				<key>PayloadDisplayName</key>
+				<string>Adhole (US) DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
