@@ -12,11 +12,3 @@ a:hover {
   background-color: rgb(248, 105, 34);
   color: white;
 }
-
-audio {
-  margin: 10px 0 0 40px;
-}
-
-#audio-control {
-  cursor: pointer;
-}
