@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Cloudflare (1.1.1.1 for Firefox) DNS over HTTPS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Cloudflare (1.1.1.1 for Firefox) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.a70cf01c-9fdb-4a5b-a2fd-ea3b8d6b1350</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>6d551e5c-3f61-4a73-90b8-b671cce302f8</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>1.1.1.1</string>
+						<string>1.0.0.1</string>
+						<string>2606:4700:4700::1111</string>
+						<string>2606:4700:4700::1001</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://mozilla.cloudflare-dns.com/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.cc217085-8803-495b-a4d1-c2fe0ff9586f</string>
+				<key>PayloadUUID</key>
+				<string>d1113b9b-29de-4f9a-90ac-36e1ddde3040</string>
+				<key>PayloadDisplayName</key>
+				<string>Cloudflare (1.1.1.1 for Firefox) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>

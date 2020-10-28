@@ -3,17 +3,17 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>Cloudflare (1.1.1.1 for Mozilla) DNS over HTTPS</string>
+		<string>NextDNS (Standard / Unfiltered) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Cloudflare (1.1.1.1 for Mozilla) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables NextDNS (Standard / Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.a70cf01c-9fdb-4a5b-a2fd-ea3b8d6b1350</string>
+		<string>com.apple.dnsSettings.managed.dd245b3c-3502-4aad-bc7d-bc9db38a32b5</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>6d551e5c-3f61-4a73-90b8-b671cce302f8</string>
+		<string>df68815e-dea5-4f13-8b8e-8bc562f6ea7c</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -25,22 +25,21 @@
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>1.1.1.1</string>
-						<string>1.0.0.1</string>
-						<string>2606:4700:4700::1111</string>
-						<string>2606:4700:4700::1001</string>
+						<string>45.90.28.0</string>
+						<string>45.90.30.0</string>
+						<string>2a07:a8c0::</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://mozilla.cloudflare-dns.com/dns-query</string>
+					<string>https://dns.nextdns.io/</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.cc217085-8803-495b-a4d1-c2fe0ff9586f</string>
+				<string>com.apple.dnsSettings.managed.e3bb91ba-a7ee-4854-9783-8eb9459e0b67</string>
 				<key>PayloadUUID</key>
-				<string>d1113b9b-29de-4f9a-90ac-36e1ddde3040</string>
+				<string>47003edd-169f-4ea8-b7ae-b082c2865a6f</string>
 				<key>PayloadDisplayName</key>
-				<string>Cloudflare (1.1.1.1 for Mozilla) DNS over HTTPS</string>
+				<string>NextDNS (Standard / Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
