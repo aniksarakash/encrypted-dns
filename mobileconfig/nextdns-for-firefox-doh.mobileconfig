@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>NextDNS (for Firefox / Unfiltered) DNS over HTTPS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables NextDNS (for Firefox / Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.7a67732a-d29f-4f52-8184-b2a120dcec68</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>3ebb8619-bc26-42c5-a9d2-ef4e51f6cb95</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>45.90.28.0</string>
+						<string>45.90.30.0</string>
+						<string>2a07:a8c0::</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://firefox.dns.nextdns.io/</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.6ff9d8c8-cf22-49a0-bf59-9cb2ded93578</string>
+				<key>PayloadUUID</key>
+				<string>bae9c0ec-adcc-4ea7-8b25-f648226d84a6</string>
+				<key>PayloadDisplayName</key>
+				<string>NextDNS (for Firefox / Unfiltered) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
