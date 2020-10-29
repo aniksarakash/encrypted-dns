@@ -3,9 +3,9 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>NixNet (Adblock Las Vegas) DNS over HTTPS</string>
+		<string>NixNet (Adblock / Las Vegas) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables NixNet (Adblock Las Vegas) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables NixNet (Adblock / Las Vegas) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.6df36591-f74f-4745-a1c3-b8d92189a5dc</string>
 		<key>PayloadScope</key>
@@ -38,7 +38,7 @@
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
-				<string>NixNet (Adblock Las Vegas) DNS over HTTPS</string>
+				<string>NixNet (Adblock / Las Vegas) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
