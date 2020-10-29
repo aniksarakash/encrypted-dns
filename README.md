@@ -20,3 +20,7 @@ Requirements:
 
 If you're not comfortable installing from the website, you can also install straight from GitLab.com by navigating to a profile (in Safari) within [/mobileconfig](https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs/-/tree/master/mobileconfig) and selecting "Open raw." For example, this is 42l's DoH profile from the repo:
 - https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs/-/raw/master/mobileconfig/42l-doh.mobileconfig
+
+## Licenses
+
+[DNS icon](https://icons8.com/icons/set/dns--v1) by [Icons8](https://icons8.com).
