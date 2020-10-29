@@ -26,6 +26,10 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>146.112.41.3</string>
+						<string>2620:119:35::123</string>
+						<string>208.67.222.123</string>
+						<string>2620:119:53::123</string>
+						<string>208.67.220.123</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh.familyshield.opendns.com/dns-query</string>
