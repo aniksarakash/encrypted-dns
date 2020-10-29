@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>CIRA Canadian Shield (Uncensored) DNS over HTTPS</string>
+		<string>LibreDNS (Unfiltered) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CIRA Canadian Shield (Uncensored) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables LibreDNS (Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.77d0b7b9-664f-40ad-a66a-db7ceeb20cb1</string>
+		<string>com.apple.dnsSettings.managed.b612565c-ea06-4c26-862c-c3846ca0992a</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -25,22 +25,19 @@
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>149.112.121.10</string>
-						<string>149.112.122.10</string>
-						<string>2620:10A:80BB::10</string>
-						<string>2620:10A:80BC::10</string>
+						<string>116.202.176.26</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://private.canadianshield.cira.ca/dns-query</string>
+					<string>https://doh.libredns.gr/dns-query</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.a03673c2-6fd2-4d60-9460-8df14e52ab6f</string>
+				<string>com.apple.dnsSettings.managed.d6f6a935-844c-4aac-89e9-f653fd47e694</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
-				<string>CIRA Canadian Shield (Uncensored) DNS over HTTPS</string>
+				<string>LibreDNS (Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>

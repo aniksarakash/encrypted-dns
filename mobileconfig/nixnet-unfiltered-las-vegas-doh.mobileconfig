@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>NixNet (Uncensored Luxembourg) DNS over HTTPS</string>
+		<string>NixNet (Unfiltered / Las Vegas) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables NixNet (Uncensored Luxembourg) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables NixNet (Unfiltered / Las Vegas) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.ceca27c3-430a-4a96-9fe6-ea2415950fd8</string>
+		<string>com.apple.dnsSettings.managed.d35c7913-3b8a-484f-aa92-479121b55f82</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
@@ -25,20 +25,20 @@
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>104.244.78.231</string>
-						<string>2605:6400:30:f881::1</string>
+						<string>209.141.34.95</string>
+						<string>2605:6400:20:e6d::1</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://uncensored.lux1.dns.nixnet.xyz/dns-query</string>
+					<string>https://uncensored.lv1.dns.nixnet.xyz/dns-query</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.3b61c6e4-2c6a-4686-9a78-1c4dc3c1338a</string>
+				<string>com.apple.dnsSettings.managed.e16816d5-07b0-458b-ac64-34911348f4b3</string>
 				<key>PayloadUUID</key>
 				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
 				<key>PayloadDisplayName</key>
-				<string>NixNet (Uncensored Luxembourg) DNS over HTTPS</string>
+				<string>NixNet (Unfiltered / Las Vegas) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
