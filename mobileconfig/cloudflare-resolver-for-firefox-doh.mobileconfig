@@ -26,8 +26,8 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>1.1.1.1</string>
-						<string>1.0.0.1</string>
 						<string>2606:4700:4700::1111</string>
+						<string>1.0.0.1</string>
 						<string>2606:4700:4700::1001</string>
 					</array>
 					<key>ServerURL</key>

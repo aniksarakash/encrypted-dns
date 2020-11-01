@@ -26,7 +26,6 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>95.215.19.53</string>
-						<string>2001:67c:2354:2::53</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://dns.njal.la/dns-query</string>

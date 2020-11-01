@@ -26,8 +26,11 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>104.26.6.92</string>
+						<string>2606:4700:20::ac43:46ad</string>
 						<string>104.26.7.92</string>
+						<string>2606:4700:20::681a:75c</string>
 						<string>172.67.70.173</string>
+						<string>2606:4700:20::681a:65c</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://basic.bravedns.com</string>
