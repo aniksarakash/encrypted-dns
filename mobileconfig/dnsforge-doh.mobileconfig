@@ -26,8 +26,8 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>176.9.93.198</string>
-						<string>176.9.1.117</string>
 						<string>2a01:4f8:151:34aa::198</string>
+						<string>176.9.1.117</string>
 						<string>2a01:4f8:141:316d::117</string>
 					</array>
 					<key>ServerURL</key>

@@ -26,6 +26,7 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>136.144.215.158</string>
+						<string>2a01:7c8:d002:1ef:5054:ff:fe40:3703</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh.powerdns.org/</string>

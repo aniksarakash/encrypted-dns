@@ -26,8 +26,8 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>149.112.121.30</string>
-						<string>149.112.122.30</string>
 						<string>2620:10A:80BB::30</string>
+						<string>149.112.122.30</string>
 						<string>2620:10A:80BC::30</string>
 					</array>
 					<key>ServerURL</key>
