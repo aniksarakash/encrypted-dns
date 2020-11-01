@@ -30,7 +30,7 @@
 						<string>172.67.70.173</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://free.bravedns.com/dns-query</string>
+					<string>https://basic.bravedns.com</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
