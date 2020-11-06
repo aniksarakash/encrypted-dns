@@ -9,12 +9,25 @@ https://encrypted-dns.party
 
 Configuration files to easily set your Apple device to use encrypted DNS by your chosen provider systemwide.
 
-## Install
+## Install Instructions from [NextDNS' Profile Generator](https://apple.nextdns.io)
 
-Requirements:
+Install on iOS and iPadOS
+1. Use Safari web browser for opening the `.mobileconfig` to recieve the install prompt.
 
-- iOS 14, iPadOS 14, tvOS 14, or macOS Big Sur.
-- Use Safari web browser for opening the `.mobileconfig` to recieve the install prompt.
+Install on macOS
+1. Open the downloaded `.mobileconfig` file.
+2. Open System Preferences.
+3. Go to Profiles.
+4. Click Install.
+
+Install on tvOS
+1. Open the Settings app.
+2. Go to General → Privacy.
+3. Hover over "Share Apple TV Analytics" without pressing.
+4. Press Play on the remote.
+5. Select Add Profile.
+6. Make the downloaded `.mobileconfig` file accessible publicly and enter its URL. You can use [TinyURL](https://tinyurl.com).
+7. Install the profile following the onscreen instructions.
 
 ## Note
 
