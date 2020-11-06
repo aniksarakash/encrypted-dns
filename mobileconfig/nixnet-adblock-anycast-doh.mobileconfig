@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>NixNet (Adblock / Anycast) DNS over HTTPS</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables NixNet (Adblock / Anycast) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.91059ceb-80ad-4b9a-8e23-d4de8f23cb53</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>198.251.90.89</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://adblock.any.dns.nixnet.xyz/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.13e7e795-c594-46a3-9095-fce2bb500252</string>
+				<key>PayloadUUID</key>
+				<string>3af1502c-329a-44d6-be99-c9f7dfdd9bbe</string>
+				<key>PayloadDisplayName</key>
+				<string>NixNet (Adblock / Anycast) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
