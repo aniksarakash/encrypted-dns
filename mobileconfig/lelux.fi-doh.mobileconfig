@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>51.158.147.50</string>
-						<string>2001:bc8:2db9:100::853</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://resolver-eu.lelux.fi/dns-query</string>
 				</dict>

@@ -23,10 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>116.202.176.26</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh.libredns.gr/ads</string>
 				</dict>

@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>104.244.78.231</string>
-						<string>2605:6400:30:f881::1</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://adblock.lux1.dns.nixnet.xyz/dns-query</string>
 				</dict>

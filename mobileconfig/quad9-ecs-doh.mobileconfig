@@ -23,13 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>9.9.9.11</string>
-						<string>2620:fe::11</string>
-						<string>149.112.112.11</string>
-						<string>2620:fe::fe:11</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://dns11.quad9.net/dns-query</string>
 				</dict>

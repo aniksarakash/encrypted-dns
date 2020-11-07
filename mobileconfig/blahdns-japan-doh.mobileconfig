@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>45.32.55.94</string>
-						<string>2001:19f0:7001:3259:5400:02ff:fe71:0bc9</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh-jp.blahdns.com/dns-query</string>
 				</dict>

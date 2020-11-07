@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>89.233.43.71</string>
-						<string>2a01:3a0:53:53::</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://unicast.uncensoreddns.org/dns-query</string>
 				</dict>

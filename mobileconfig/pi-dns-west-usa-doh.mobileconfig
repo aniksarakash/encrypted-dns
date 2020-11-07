@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>45.67.219.208</string>
-						<string>2a04:bdc7:100:70::abcd</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh.westus.pi-dns.com/dns-query</string>
 				</dict>

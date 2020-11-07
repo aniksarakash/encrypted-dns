@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>95.216.181.228</string>
-						<string>2a01:4f9:c01f:4::abcd</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh.northeu.pi-dns.com/dns-query</string>
 				</dict>

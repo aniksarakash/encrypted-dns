@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>89.187.190.167</string>
-						<string>2a02:6ea0:c225::2</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh1.blahdns.com/dns-query</string>
 				</dict>

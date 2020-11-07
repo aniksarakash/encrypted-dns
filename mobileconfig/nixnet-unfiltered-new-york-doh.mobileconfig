@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>199.195.251.84</string>
-						<string>2605:6400:10:80e::1</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://uncensored.ny1.dns.nixnet.xyz/dns-query</string>
 				</dict>

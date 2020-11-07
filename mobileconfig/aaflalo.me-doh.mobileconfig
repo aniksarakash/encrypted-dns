@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>168.235.81.167</string>
-						<string>2604:180:f3::42</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://dns-nyc.aaflalo.me/dns-query</string>
 				</dict>

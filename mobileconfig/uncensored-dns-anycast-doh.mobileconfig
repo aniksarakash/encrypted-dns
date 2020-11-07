@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>91.239.100.100</string>
-						<string>2001:67c:28a4::</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://anycast.uncensoreddns.org/dns-query</string>
 				</dict>

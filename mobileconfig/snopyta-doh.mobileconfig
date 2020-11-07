@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>95.216.229.153</string>
-						<string>2a01:4f9:2a:1919::21</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://fi.doh.dns.snopyta.org/dns-query</string>
 				</dict>

@@ -23,11 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>210.16.120.48</string>
-						<string>2403:5680:0:0:0:0:1:9582</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://sg.adhole.org/dns-query</string>
 				</dict>

@@ -23,13 +23,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>185.228.168.10</string>
-						<string>2a0d:2a00:1::1</string>
-						<string>185.228.169.11</string>
-						<string>2a0d:2a00:2::1</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh.cleanbrowsing.org/doh/adult-filter/</string>
 				</dict>
