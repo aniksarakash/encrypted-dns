@@ -3,17 +3,17 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>CleanBrowsing DNS over HTTPS (Adult Filter)</string>
+		<string>CleanBrowsing (Adult Filter) DNS over HTTPS</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables CleanBrowsing DNS over HTTPS (Adult Filter) on all networks using the iOS 14 Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables CleanBrowsing (Adult Filter) DNS over HTTPS on all networks using the iOS 14 Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.76043e28-044a-44ff-a65a-9ca6e25dd718</string>
+		<string>com.apple.dnsSettings.managed.463a9094-ca0c-4783-9fb3-0b15eadde3bc</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>f8a0229c-198f-4994-97fa-c7dda0bc7661</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -36,11 +36,11 @@
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.54d1041d-1477-4f0b-ad63-10caabb565f9</string>
+				<string>com.apple.dnsSettings.managed.9babb69f-3bca-4885-ac48-e14582ddcbb4</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>6ace03a4-7aa4-43f7-b17b-e235ca3f16a0</string>
 				<key>PayloadDisplayName</key>
-				<string>CleanBrowsing DNS over HTTPS (Adult Filter)</string>
+				<string>CleanBrowsing (Adult Filter) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
