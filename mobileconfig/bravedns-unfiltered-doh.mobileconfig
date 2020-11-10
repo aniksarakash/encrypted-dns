@@ -4,8 +4,18 @@
 	<dict>
 		<key>PayloadDisplayName</key>
 		<string>BraveDNS (Unfiltered) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BraveDNS (Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables BraveDNS (Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://www.bravedns.com/privacy</string>
+		</dict>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.44a63576-0a00-45de-aa6c-5a72b05be850</string>
 		<key>PayloadScope</key>

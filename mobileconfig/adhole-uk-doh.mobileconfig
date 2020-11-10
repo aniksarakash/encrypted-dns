@@ -4,8 +4,18 @@
 	<dict>
 		<key>PayloadDisplayName</key>
 		<string>Adhole (UK) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Adhole (UK) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables Adhole (UK) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://adhole.org/privacy-policy</string>
+		</dict>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.00a04d17-935f-416c-b207-b4b0bb48f244</string>
 		<key>PayloadScope</key>

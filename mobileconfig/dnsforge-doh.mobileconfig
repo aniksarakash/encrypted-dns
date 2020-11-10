@@ -4,8 +4,18 @@
 	<dict>
 		<key>PayloadDisplayName</key>
 		<string>dnsforge.de DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables dnsforge.de DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables dnsforge.de DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://dnsforge.de</string>
+		</dict>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.a8f76588-bd8f-4917-a7ee-2ebfc23591c5</string>
 		<key>PayloadScope</key>

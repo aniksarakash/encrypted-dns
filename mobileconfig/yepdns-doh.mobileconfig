@@ -4,8 +4,18 @@
 	<dict>
 		<key>PayloadDisplayName</key>
 		<string>yepDNS DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables yepDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature. Downloaded from https://encrypted-dns.party.</string>
+		<string>This profile enables yepDNS DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://get.yepdns.com</string>
+		</dict>
 		<key>PayloadIdentifier</key>
 		<string>com.apple.dnsSettings.managed.a154f426-8172-4236-be8f-388d60682ad6</string>
 		<key>PayloadScope</key>
