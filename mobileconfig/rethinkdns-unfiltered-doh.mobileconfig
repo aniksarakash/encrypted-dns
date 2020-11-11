@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>BraveDNS (Unfiltered) DNS over HTTPS</string>
+		<string>RethinkDNS (Unfiltered) DNS over HTTPS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BraveDNS (Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables RethinkDNS (Unfiltered) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -52,7 +52,7 @@ https://www.bravedns.com/privacy</string>
 				<key>PayloadUUID</key>
 				<string>586e17ba-0c8f-4267-9286-9b3576bd05cc</string>
 				<key>PayloadDisplayName</key>
-				<string>BraveDNS (Unfiltered) DNS over HTTPS</string>
+				<string>RethinkDNS (Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
