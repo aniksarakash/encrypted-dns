@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>Alekberg (Amsterdam) DNS over HTTPS</string>
+		<string>Alekberg (Spain) DNS over HTTPS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Alekberg (Amsterdam) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables Alekberg (Spain) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://alekberg.net/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.3327f940-afb7-4e58-860b-3af1b7d2efd8</string>
+		<string>com.apple.dnsSettings.managed.0662f80c-0c11-450c-bc87-c9d1b70032cf</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>a06636cc-63a9-4780-b5fe-0fde207c06d6</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -35,19 +35,19 @@ https://alekberg.net/privacy</string>
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>51.15.124.208</string>
+						<string>185.253.154.66</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://dnsnl.alekberg.net/dns-query</string>
+					<string>https://dnses.alekberg.net/dns-query</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.e13efe8e-fe4d-4959-842e-ce1988c3a0a5</string>
+				<string>com.apple.dnsSettings.managed.13b431ee-7138-4375-a190-4e6c5cd203cb</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>5677a6a6-3691-4a05-a699-3b4365350e9c</string>
 				<key>PayloadDisplayName</key>
-				<string>Alekberg (Amsterdam) DNS over HTTPS</string>
+				<string>Alekberg (Spain) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
