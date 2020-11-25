@@ -27,12 +27,6 @@ body {
   margin: 0 auto;  /* centers the layout */
 }
 
-@media only screen and (max-width: 680px) { /* smaller screens */
-  body {
-    font-size: 16px;
-  }
-}
-
 /* ------- Sections ------- */
 
 section {
@@ -84,6 +78,11 @@ a {
 
 a:hover {
   border-bottom: 1px solid;
+}
+
+section h1 {
+  font-size: 1em;
+  margin: 0 0 1em 0;
 }
 
 h2, h3, h4 {
@@ -163,7 +162,7 @@ img, svg, video, audio {
   fill: currentColor;
 }
   
-code, pre, textarea {
+code, textarea {
   font-family: ui-monospace, SF Mono, Menlo, Monaco, Andale Mono, monospace;
   font-size: 1em;
   opacity: .7;
@@ -173,7 +172,7 @@ a code {
   opacity:1;
 }
 
-textarea { /* for code samples */
+pre, textarea { /* for code samples */
   font-size: .9em;
   color: inherit;
   line-height:inherit;
@@ -288,10 +287,10 @@ article + article {
   margin-top: 5em;
 }
 
-article h1 {
+article h2 {
   font-size: 1em;
-  font-weight:700;
-  margin-bottom: 1em;
+  font-weight: 700;
+  margin: 0 0 1em 0;
 }
 
 article time {
@@ -337,40 +336,53 @@ article time {
 /* ------- Slideshow ------- */
 
 .slides {
-  position:fixed;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
-  overflow-y:scroll;
-  scroll-snap-type:y mandatory;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
 }
 
 .slides figure {
-  height:100vh;
-  padding:0 5vw;
-  margin:0;
-  display:grid;
-  place-items:center;
+  height: 100vh;
+  padding: 0 5vw;
+  margin: 0;
+  display: grid;
+  place-items: center;
   align-content: center;
-  scroll-snap-align:center;
+  scroll-snap-align: center;
   background-size: cover; /* Full bleed background images */
   background-position: center center;
 }
 
 .slides figure img {
-  max-height:88vh;
+  max-height: 88vh;
+}
+
+.slides figure.cover {
+  padding: 0;
+}
+
+.slides figure.cover img {
+  max-height: none;
+  position: absolute;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
 }
 
 /* ------- Lightbox ------- */
 
 .lightbox {
-  position: fixed;
   display: none;
   color: var(--textcolor);
 }
 
 .lightbox:target {
+  position: fixed;
   top: 0;
   right: 0;
   left: 0;
@@ -416,6 +428,16 @@ article time {
   top: .75em;
   right: .5em;
   z-index: 4;
+}
+
+/* ------- Mobile ------- */
+
+@media only screen and (max-width: 680px) {
+  body { font-size: 16px; }
+}
+
+@media only screen and (max-width: 540px) {
+  nav { width: 100%; } /* Fix for older webkit versions */
 }
 
 /* ------- Print ------- */
