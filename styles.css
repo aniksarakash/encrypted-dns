@@ -31,7 +31,7 @@ body {
 
 section {
   padding: calc(6em + 5vw) 5vw 8vw 5vw;
-  /* !! Everything below is needed !! */
+  /* ! Everything below is needed ! */
   display: none;
   position: absolute;
   top: 0;
@@ -61,9 +61,9 @@ header {
 
 header h1 {
   font-size: 1em;
-  flex: 1;
+  flex: 1; /* pushes nav to the right */
   white-space: nowrap;
-  padding: 0 20vw .5em 0;
+  padding: 0 5vw .5em 0;
 }
 
 nav a:not(:last-of-type) {
@@ -255,6 +255,7 @@ section:target iframe {
 
 a[href*="//"]:after { 
   font-weight: 300;
+  font-size: .85em;
   content: "\2197"; /* top right arrow: ↗ */
   color: var(--textcolor);
   opacity: .25;
@@ -277,6 +278,8 @@ a:before {
 a[href$=".pdf"]:before { content: "PDF"; }
 a[href$=".txt"]:before { content: "TXT"; }
 a[href$=".mp3"]:before { content: "MP3"; }
+a[href$=".zip"]:before { content: "ZIP"; }
+a[href$=".rar"]:before { content: "RAR"; }
 a[href$=".jpeg"]:before,
 a[href$=".jpg"]:before,
 a[href$=".gif"]:before,
@@ -305,7 +308,7 @@ article time {
 .grid {
   display: grid;
   grid-gap: 5vmin;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 150px = minimum image size */
   grid-auto-flow: dense;
   padding: 2em 0;
 }
@@ -319,7 +322,8 @@ article time {
   transform: scale(.975);
 }
 
-.grid a:before { /* To enforce a square ratio */
+/* For a square ratio */
+.grid a:before {
   content: "";
   display: block;
   padding-top: 100%;
@@ -428,7 +432,7 @@ article time {
   z-index: 4;
 }
 
-/* ------- Mobile ------- */
+/* ------- Smaller screens ------- */
 
 @media only screen and (max-width: 680px) {
   body { font-size: 16px; }
@@ -450,8 +454,26 @@ article time {
   }
   
   /* Inline footnotes */
+  
   label + input + small { display: inline; }
   label + input + small:before { content: "["; }
   label + input + small:after { content: "]"; }
+  
+  /* Slides */
+  
+  .slides, .slides figure {
+    position: relative;
+    height: auto;
+    padding: 0;
+  }
+
+  .slides figure img, .slides figure.cover img {
+    max-height: auto;
+    position: relative;
+    z-index: 1;
+    width: auto;
+    height: 100vh;
+    object-fit: contain;
+  }
     
 }
