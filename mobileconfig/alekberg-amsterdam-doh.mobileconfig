@@ -36,7 +36,7 @@ https://alekberg.net/privacy</string>
 					<key>ServerAddresses</key>
 					<array>
 						<string>51.15.124.208</string>
-						<string>2001:bc8:1830:1a21::1</string>
+						<string>2001:bc8:1830:2018::1</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://dnsnl.alekberg.net/dns-query</string>
