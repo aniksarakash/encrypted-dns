@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>AhaDNS (Netherlands) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables AhaDNS (Netherlands) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://ahadns.com/privacy-policy</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.dnsSettings.managed.6faaaa21-7041-48bd-91f5-470025aac7ce</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>3a07099f-9bdf-4152-abd5-b86e62809bc2</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>5.2.75.75</string>
+						<string>2a04:52c0:101:75::75</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://doh.nl.ahadns.net/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.c4a3b153-e0ab-441b-aff0-fd56acdd7614</string>
+				<key>PayloadUUID</key>
+				<string>105745fb-8a4c-4717-ad13-57a89c177bc8</string>
+				<key>PayloadDisplayName</key>
+				<string>AhaDNS (Netherlands) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
