@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Uncensored DNS (Unicast) DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Uncensored DNS (Unicast) DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://blog.uncensoreddns.org/faq</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>64e0206d-e2d1-4ec6-beee-9bdae31e6e97</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>d0035132-b304-4c57-a593-db00ca7d21fd</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>89.233.43.71</string>
+						<string>2a01:3a0:53:53::</string>
+					</array>
+					<key>ServerName</key>
+					<string>unicast.censurfridns.dk</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>f61e315d-4e9c-4fdc-86e8-6c77ed512ddc</string>
+				<key>PayloadUUID</key>
+				<string>3e5c5d43-f419-4ad8-8906-dbd2fb9b1ad9</string>
+				<key>PayloadDisplayName</key>
+				<string>Uncensored DNS (Unicast) DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
