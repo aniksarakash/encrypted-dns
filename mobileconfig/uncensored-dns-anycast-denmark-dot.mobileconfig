@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Uncensored DNS (Anycast / Denmark) DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Uncensored DNS (Anycast / Denmark) DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://blog.uncensoreddns.org/faq</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>0af63715-9a5e-41e8-a2b5-f636fef4f0e9</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>5742b548-ad3c-4352-ae1e-b8735d0cc07f</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>91.239.100.100</string>
+						<string>2001:67c:28a4::</string>
+					</array>
+					<key>ServerName</key>
+					<string>anycast.censurfridns.dk</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>585b9f68-c680-4543-9951-d1b80ea26cdd</string>
+				<key>PayloadUUID</key>
+				<string>9cbcb8db-e00c-43c0-8e77-3bc4a342a940</string>
+				<key>PayloadDisplayName</key>
+				<string>Uncensored DNS (Anycast / Denmark) DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
