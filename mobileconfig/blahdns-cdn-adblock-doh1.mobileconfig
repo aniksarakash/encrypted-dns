@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>BlahDNS (Adblock / CDN) DNS over HTTPS</string>
+		<string>BlahDNS (CDN / Adblock / Primary) DNS over HTTPS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables BlahDNS (Adblock / CDN) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables BlahDNS (CDN / Adblock / Primary) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.eba41703-1a9c-48f4-9439-dfeb7f6b764b</string>
+		<string>f48cc7b9-702c-4854-b70d-8bc7670122b2</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>bfff6295-b88a-401b-8d26-bf96a246f8cb</string>
+		<string>6733d4c7-e68f-4c2e-93c2-2c7ee6f30330</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -35,8 +35,8 @@ https://blahdns.com</string>
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>89.187.190.167</string>
-						<string>2a02:6ea0:c225::2</string>
+						<string>185.93.1.242</string>
+						<string>2a02:6ea0:c605::2</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh1.blahdns.com/dns-query</string>
@@ -44,11 +44,11 @@ https://blahdns.com</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.f28ffe87-4cf4-485e-bad7-70249f8f2633</string>
+				<string>4062c3f9-1314-4f8f-9c77-fd7de27f7564</string>
 				<key>PayloadUUID</key>
-				<string>0c685f34-1775-4be4-9ee1-1f378ed263ae</string>
+				<string>f31114d1-c0a9-4dd9-b69c-c3b966f66efd</string>
 				<key>PayloadDisplayName</key>
-				<string>BlahDNS (Adblock / CDN) DNS over HTTPS</string>
+				<string>BlahDNS (CDN / Adblock / Primary) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>

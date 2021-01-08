@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>BlahDNS (CDN / Unfiltered / Secondary) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables BlahDNS (CDN / Unfiltered / Secondary) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://blahdns.com</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>397576da-19f8-4578-803e-7fb50095a788</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>562193f4-7842-4426-8489-c6d9e19e4c21</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>185.93.1.242</string>
+						<string>2a02:6ea0:c605::2</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://doh2.blahdns.com/uncensor</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>2e0aa1b4-f5a4-43c0-9a04-107774b67cd2</string>
+				<key>PayloadUUID</key>
+				<string>58a1328a-1d02-48b3-bb53-37cc7c02b033</string>
+				<key>PayloadDisplayName</key>
+				<string>BlahDNS (CDN / Unfiltered / Secondary) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
