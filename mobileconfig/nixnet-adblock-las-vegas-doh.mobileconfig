@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://docs.nixnet.services/NixNet_DNS/Privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.6df36591-f74f-4745-a1c3-b8d92189a5dc</string>
+		<string>0e093a6f-50dc-4116-a6a8-201664899134</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>ddba6a85-4ed4-4618-9711-3df1c8452dea</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://docs.nixnet.services/NixNet_DNS/Privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.d884697c-9fdb-4cba-89c7-b3b994b75524</string>
+				<string>a8559b8d-8c88-428f-a580-8833c1ea4acc</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>9ff91266-5037-447c-8788-c044995c43f3</string>
 				<key>PayloadDisplayName</key>
 				<string>NixNet (Adblock / Las Vegas) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

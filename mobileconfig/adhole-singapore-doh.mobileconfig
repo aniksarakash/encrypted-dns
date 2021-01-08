@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://adhole.org/privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.a6be0534-6584-416d-98c0-09dcca4bc494</string>
+		<string>3acdb423-0a82-461b-bc58-c0fc29d0db36</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>2b9b0ffe-83df-4225-b499-a55f41c5a672</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://adhole.org/privacy-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.f2cfd622-5cb6-4297-8554-bc1fc7de6592</string>
+				<string>0c3afc9f-f3d7-4a2e-b225-7049fff3be0a</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>185e4cc1-2688-4707-8ab6-cb084aff358d</string>
 				<key>PayloadDisplayName</key>
 				<string>Adhole (Singapore) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

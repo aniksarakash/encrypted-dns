@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://wiki.mozilla.org/Security/DOH-resolver-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.7a67732a-d29f-4f52-8184-b2a120dcec68</string>
+		<string>57fc4c46-84fb-4475-b18f-5c0f59f2fa05</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>3ebb8619-bc26-42c5-a9d2-ef4e51f6cb95</string>
+		<string>403a1199-7d15-4f75-9fac-f6a661ed1200</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://wiki.mozilla.org/Security/DOH-resolver-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.6ff9d8c8-cf22-49a0-bf59-9cb2ded93578</string>
+				<string>2b278d4d-dd58-49e4-a80b-909924c71bb7</string>
 				<key>PayloadUUID</key>
-				<string>bae9c0ec-adcc-4ea7-8b25-f648226d84a6</string>
+				<string>3a3343fb-1993-41a4-a907-bed05e20ebd2</string>
 				<key>PayloadDisplayName</key>
 				<string>NextDNS (Resolver for Firefox / Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

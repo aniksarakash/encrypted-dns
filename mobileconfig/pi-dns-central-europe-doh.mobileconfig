@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://pi-dns.com/privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.f87ed626-95db-4b75-b981-e047c27b3e5a</string>
+		<string>c9ab7c4d-313e-4253-b899-5d91167dad4e</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>d39980e1-7c59-4fdb-a7a4-b0efd36cbb92</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://pi-dns.com/privacy-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.d4c9550e-be78-4737-9151-2f1599527ff8</string>
+				<string>bf2f1c17-7d60-4c6a-aed5-6d70862cbd3f</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>dd5dfc21-34ae-42f7-b983-f5062a793473</string>
 				<key>PayloadDisplayName</key>
 				<string>pi-dns.com (Central Europe) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

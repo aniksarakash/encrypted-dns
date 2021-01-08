@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.nic.cz/odvr</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.7a21e296-fb0f-4476-bf71-5a7afd443ad1</string>
+		<string>f0de3f02-5824-4b21-b1c7-43b0de57d792</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>a62a5a39-34cd-4336-b25a-c94e64b6846c</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://www.nic.cz/odvr</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.7656c347-453a-4779-b617-e4c6b9c28cb7</string>
+				<string>a136dc89-cb28-4b4d-81ac-008932e522cf</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>6e12a618-7a08-46ba-b694-36c28d476140</string>
 				<key>PayloadDisplayName</key>
 				<string>CZ.NIC DNS over HTTPS</string>
 				<key>PayloadVersion</key>

@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://dns.digitale-gesellschaft.ch</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.0f9685e2-1dce-4c5c-b34b-d5ee29e620fb</string>
+		<string>12205f27-8ada-4a8e-a80f-19022feee2df</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>8ae8b7dc-80f9-4350-b08c-7e254c05a2f5</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://dns.digitale-gesellschaft.ch</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.b2afea6c-5d46-4174-a3d0-11b5363b0d47</string>
+				<string>0d7d4555-f355-42f1-afa1-d8e7afad0c6c</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>0bffe74c-69bc-478f-95b1-7b8c644ef1ef</string>
 				<key>PayloadDisplayName</key>
 				<string>Digital Society DNS over HTTPS</string>
 				<key>PayloadVersion</key>

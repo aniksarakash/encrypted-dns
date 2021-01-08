@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://42l.fr/DoH-service</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.b6a87900-78b8-4968-b9e3-02d04cf2ff48</string>
+		<string>04f0c099-6059-4cad-89ba-73446d4cf216</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>b99e2c5e-aaf4-4891-bbf5-f28b5103f30d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -43,9 +43,9 @@ https://42l.fr/DoH-service</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.8b342428-3e1c-48c4-ba9c-1661706fe2d9</string>
+				<string>403f33c2-2c5e-462e-87b1-0b778eeb025f</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>9687478f-1418-43cc-9f79-75133febd428</string>
 				<key>PayloadDisplayName</key>
 				<string>42l DNS over HTTPS</string>
 				<key>PayloadVersion</key>

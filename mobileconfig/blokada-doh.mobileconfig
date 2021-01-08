@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://community.blokada.org/t/the-benefits-of-blokada-dns/6646</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.481b17ed-7cdd-4661-a9b6-d840ca2880c6</string>
+		<string>32a4d45c-153f-4468-9ad1-f84cb6be1b6e</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>384d5343-cc58-4ccf-91f3-93b2acc63eaa</string>
+		<string>a1eb4534-dd23-4a54-9ea0-b844b8b5a490</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://community.blokada.org/t/the-benefits-of-blokada-dns/6646</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.78838c81-d27e-46df-b0a4-d403e6051162</string>
+				<string>fc7c91c8-0ea1-480e-8215-786f58198f9c</string>
 				<key>PayloadUUID</key>
-				<string>bcb60583-a54c-415e-959b-529017d7d048</string>
+				<string>e429a97e-9c44-48e0-b762-3b25197c1354</string>
 				<key>PayloadDisplayName</key>
 				<string>Blokada DNS over HTTPS</string>
 				<key>PayloadVersion</key>

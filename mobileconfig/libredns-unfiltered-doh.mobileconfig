@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://libredns.gr</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.b612565c-ea06-4c26-862c-c3846ca0992a</string>
+		<string>d0f57f1a-cbe5-4abe-a938-9b3f9b1fc9a8</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>a03d4178-9221-4852-bc89-49ba3b13a8bf</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -43,9 +43,9 @@ https://libredns.gr</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.d6f6a935-844c-4aac-89e9-f653fd47e694</string>
+				<string>5a6737d0-d886-4651-9b1c-679cf3133a06</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>4693f0af-2771-4522-9eac-3165edc0bcad</string>
 				<key>PayloadDisplayName</key>
 				<string>LibreDNS (Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

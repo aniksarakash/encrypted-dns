@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://snopyta.org/privacy_policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.09cd68c1-d572-4d1e-b02f-225f99ffd939</string>
+		<string>64371982-54ef-4743-ad82-c6985eb34150</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>6d6c64a5-02ac-4cc4-966d-2c867d3f6fdd</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://snopyta.org/privacy_policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.17e0e0e4-167c-4f4c-83c2-0b0c03d4e0c6</string>
+				<string>7f5cc46f-7f01-4ecd-80a8-134964d92154</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>5abcbb64-a734-4988-bd45-e87409bee332</string>
 				<key>PayloadDisplayName</key>
 				<string>Snopyta DNS over HTTPS</string>
 				<key>PayloadVersion</key>

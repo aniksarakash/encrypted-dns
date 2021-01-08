@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.858ae277-e1e1-4a4d-ba48-e7ba21837bc9</string>
+		<string>41e87916-faaf-42f5-9378-a236e57fca50</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>3ac76bbe-dc66-4078-adc7-c172cd904b1b</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://blahdns.com</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.48c4d28c-26f3-473a-9ce4-7c6cfd163eaa</string>
+				<string>51b4aa71-c669-4b9d-8897-3c6cd05f683c</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>22713002-14e1-4024-8a7a-65ddf0596a13</string>
 				<key>PayloadDisplayName</key>
 				<string>BlahDNS (Japan) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://alekberg.net/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.13778881-645b-4187-847a-76e2784e9b14</string>
+		<string>a9a9aa6e-998a-42bc-8be0-b54adf8f0038</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>62451e0c-5e17-4a8f-a91e-f94ffaec6fb0</string>
+		<string>6b9ded74-07ab-451e-8f56-74278d578464</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://alekberg.net/privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.a780dc38-c58e-4e73-9f81-d057abb7f9a9</string>
+				<string>059b4298-5f62-450d-b22a-a62e905935c0</string>
 				<key>PayloadUUID</key>
-				<string>97b18363-dcf3-4231-b205-4e99ff91bc73</string>
+				<string>d3772c7a-2388-4e0e-9ceb-9e2a6e5c1872</string>
 				<key>PayloadDisplayName</key>
 				<string>Alekberg (Amsterdam) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

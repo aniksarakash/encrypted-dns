@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blog.uncensoreddns.org/faq</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.68ae4147-e7d9-4ad0-9627-8170231c5a7d</string>
+		<string>d0c1baf6-b6c6-4075-bd81-c1a274054164</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>63653521-f575-4fa0-8c96-614f682001d2</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://blog.uncensoreddns.org/faq</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.12d09c13-740b-4df3-9aa6-88659ecebf27</string>
+				<string>8dffccad-4aa3-4ab0-909c-d3c28b289f65</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>84bedeb1-f0db-4a35-aac7-2adc6bf86225</string>
 				<key>PayloadDisplayName</key>
 				<string>Uncensored DNS (Anycast) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

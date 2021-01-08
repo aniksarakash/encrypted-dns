@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://libredns.gr</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.0c0e91ec-8ad7-46ff-b14e-584111c5c6d7</string>
+		<string>a27e8f8e-f722-4944-af2a-417003b7f103</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>69b523fd-de68-4ef8-a89d-2cc84b21024f</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -43,9 +43,9 @@ https://libredns.gr</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.3b0ffa2f-7c41-46ab-985d-ec920c81f2b3</string>
+				<string>0412b111-4b49-429b-acca-bab4b55d1fb1</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>3f36a1f4-2caa-46c6-bc38-eeb145d294b8</string>
 				<key>PayloadDisplayName</key>
 				<string>LibreDNS (Adblock) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

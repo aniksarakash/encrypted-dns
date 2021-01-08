@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.a398276a-f183-4bc6-bf9c-b10f627cdd79</string>
+		<string>2d165223-6bd3-434e-9c19-de0dfde431ca</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>c8634ed8-44b2-4ee9-a535-2fd7543f12c7</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://blahdns.com</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.1f40cdb8-9f37-40e9-a11f-c21d3098b078</string>
+				<string>e22232ff-8464-4d89-b24f-6ea9b4321231</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>bef58883-0fd0-45a0-85df-e2a658feb31a</string>
 				<key>PayloadDisplayName</key>
 				<string>BlahDNS (Singapore) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

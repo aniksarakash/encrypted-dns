@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.bravedns.com/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.44a63576-0a00-45de-aa6c-5a72b05be850</string>
+		<string>fc8bef6a-68f1-4716-a0dd-03eac422c0ae</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>9d2e0ab3-dd13-4e11-a4fb-56e229045bbd</string>
+		<string>9233f1b9-373d-4351-a4b3-86efc5d7cbdb</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -48,9 +48,9 @@ https://www.bravedns.com/privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.85f26b90-b87e-4657-a099-856156e9b6a1</string>
+				<string>b5bd01e0-de7b-4b01-9ba7-de1946603a5f</string>
 				<key>PayloadUUID</key>
-				<string>586e17ba-0c8f-4267-9286-9b3576bd05cc</string>
+				<string>f3090fef-63ea-4b3a-a7c8-ca893bfdf192</string>
 				<key>PayloadDisplayName</key>
 				<string>RethinkDNS (Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://lelux.fi/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.ddaedba4-752c-440b-857a-41f8e099231a</string>
+		<string>8fcc000d-9b5a-4334-b8ac-16ca80fa2f32</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>3f97e766-19dc-4f70-afea-61fcc710fc81</string>
+		<string>11f00fe1-382f-4dfe-a012-716a3badd535</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://lelux.fi/privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.e60f844d-ea19-43bd-8e66-00ab63291cb0</string>
+				<string>1fc7decf-1953-4f02-8ab8-420e17baef14</string>
 				<key>PayloadUUID</key>
-				<string>23d6319b-6dfc-4dbe-887f-35d782863e00</string>
+				<string>96d960f0-0352-48fd-8a1f-1de7fc8f5a27</string>
 				<key>PayloadDisplayName</key>
 				<string>lelux.fi DNS over HTTPS</string>
 				<key>PayloadVersion</key>
