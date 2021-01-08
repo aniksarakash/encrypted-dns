@@ -29,6 +29,13 @@ Install on tvOS
 6. Make the downloaded `.mobileconfig` file accessible publicly and enter its URL. You can use [TinyURL](https://tinyurl.com).
 7. Install the profile following the onscreen instructions.
 
+## Validate
+
+You can use these online tools for validating your DNS resolver:
+- https://browserleaks.com/dns
+- https://dnsleaktest.com
+- https://ipleak.net
+
 ## Note
 
 If you're not comfortable installing from the website, you can also install straight from GitLab.com by navigating to a profile (in Safari) within [/mobileconfig](https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs/-/tree/master/mobileconfig) and selecting "Open raw." For example, this is 42l's DoH profile from the repo:
