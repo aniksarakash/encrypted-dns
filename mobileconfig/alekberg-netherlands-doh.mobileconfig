@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>Alekberg (Amsterdam) DNS over HTTPS</string>
+		<string>Alekberg (Netherlands) DNS over HTTPS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Alekberg (Amsterdam) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables Alekberg (Netherlands) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -48,7 +48,7 @@ https://alekberg.net/privacy</string>
 				<key>PayloadUUID</key>
 				<string>d3772c7a-2388-4e0e-9ceb-9e2a6e5c1872</string>
 				<key>PayloadDisplayName</key>
-				<string>Alekberg (Amsterdam) DNS over HTTPS</string>
+				<string>Alekberg (Netherlands) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
