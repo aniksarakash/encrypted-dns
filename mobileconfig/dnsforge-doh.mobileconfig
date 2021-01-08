@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://dnsforge.de</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.a8f76588-bd8f-4917-a7ee-2ebfc23591c5</string>
+		<string>66e5c285-529c-433d-86ca-edb2438c58d8</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>76c84f62-dcbe-422e-8850-b02668d97a67</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://dnsforge.de</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.d7c89be4-fd35-43c1-878c-088d53741d3e</string>
+				<string>3a420b1f-52dc-47cf-be01-ba3ec02e9692</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>b85bfd85-904a-4217-9f63-24321735ec76</string>
 				<key>PayloadDisplayName</key>
 				<string>dnsforge.de DNS over HTTPS</string>
 				<key>PayloadVersion</key>

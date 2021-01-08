@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://ahadns.com/privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.905d42e2-8028-4367-a301-10daa5c0121e</string>
+		<string>7312324e-476f-49e0-b6af-b8749368d134</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>d37f9d3d-e99e-4fc9-afff-fee4a8134b0d</string>
+		<string>e638fc88-c4a8-4211-bc03-a493cce6c231</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://ahadns.com/privacy-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.fadc7278-32e5-414f-8f1e-e7c2d2017b01</string>
+				<string>1ab143d9-1099-4198-94e6-da0c2df8733c</string>
 				<key>PayloadUUID</key>
-				<string>6d624cac-d012-4626-84c7-1dbb83f75bbf</string>
+				<string>b29c825f-d35a-4a2c-b25f-b8c4154b0885</string>
 				<key>PayloadDisplayName</key>
 				<string>AhaDNS (India) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

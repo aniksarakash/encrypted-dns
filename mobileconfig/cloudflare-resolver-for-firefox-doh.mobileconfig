@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://wiki.mozilla.org/Security/DOH-resolver-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.a70cf01c-9fdb-4a5b-a2fd-ea3b8d6b1350</string>
+		<string>f7baeea3-2ca1-4147-8986-df9d74995619</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>6d551e5c-3f61-4a73-90b8-b671cce302f8</string>
+		<string>ebad767c-21fe-4ce4-9066-abc0fb476799</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://wiki.mozilla.org/Security/DOH-resolver-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.cc217085-8803-495b-a4d1-c2fe0ff9586f</string>
+				<string>ef565b09-e380-4877-b931-d3575ec66c9e</string>
 				<key>PayloadUUID</key>
-				<string>d1113b9b-29de-4f9a-90ac-36e1ddde3040</string>
+				<string>f3186e2e-0c57-4e99-9ed5-9230a9b61cb9</string>
 				<key>PayloadDisplayName</key>
 				<string>Cloudflare (Resolver for Firefox) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

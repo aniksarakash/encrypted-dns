@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://njal.la/#about</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.1e643697-c438-4154-bbe0-dfff175144b9</string>
+		<string>6033af99-e629-4c29-950b-ce9db019e673</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>177ba861-b89b-4628-8fda-c118b5671524</string>
+		<string>db125b67-d6a0-4d1b-bb33-7b473f8ae0d4</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://njal.la/#about</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.65c4624e-5823-4ed9-bf34-e18d1e87108f</string>
+				<string>f9476004-f5bd-4a12-8472-4cb847f9f45b</string>
 				<key>PayloadUUID</key>
-				<string>45cf0704-0e73-4500-9fcf-b8f8a029a1d6</string>
+				<string>f19026bd-66e2-4193-b3fe-efa7b2c10b51</string>
 				<key>PayloadDisplayName</key>
 				<string>Njalla DNS over HTTPS</string>
 				<key>PayloadVersion</key>

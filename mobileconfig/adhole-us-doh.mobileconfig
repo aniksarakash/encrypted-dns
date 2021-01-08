@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://adhole.org/privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.51f61274-cb71-435e-a862-0bbb0d092fc6</string>
+		<string>17ced2f1-f1ee-434b-a549-1bbd3a3404d9</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>6c3a48dd-aed9-4b6d-ae37-11403cc520a4</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://adhole.org/privacy-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.462baedb-b741-4816-b8b4-cb31eb740524</string>
+				<string>80b6efbc-9ec1-42a6-a8e5-cb510f67b794</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>69926dfc-26c7-428d-9c5b-64e0ba5abfd0</string>
 				<key>PayloadDisplayName</key>
 				<string>Adhole (US) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

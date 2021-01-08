@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.switch.ch/security/info/public-dns</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.88c9fced-551e-4034-b9f7-badf77eab966</string>
+		<string>abe2fab8-3a6b-431d-a893-7a43b82bb4d0</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>b5dbc1d4-18c7-4e39-b428-c0905259a007</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://www.switch.ch/security/info/public-dns</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.ef8f0a63-0939-4620-b760-b76887cc2210</string>
+				<string>10fbf732-2ed2-4bf3-8313-5fc2d8a06dbb</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>1ebd0a9a-7852-4794-9b32-755583236bea</string>
 				<key>PayloadDisplayName</key>
 				<string>SWITCH DNS over HTTPS</string>
 				<key>PayloadVersion</key>

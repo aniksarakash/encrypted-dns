@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.d65e9356-9821-462d-96fd-b13803f7e8dc</string>
+		<string>5d6101a6-c75b-40b6-9a37-50db99bff334</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>130ac467-f693-44bd-89b9-0f9d7b972fd4</string>
+		<string>c403fe38-50b5-4984-8d2d-419c2781e826</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.9bb5ec76-8339-499b-a3ed-fa90cebc4288</string>
+				<string>18cbf057-085f-4e94-bf2d-0b107f828f1e</string>
 				<key>PayloadUUID</key>
-				<string>818486e2-0409-402a-9282-db1864295421</string>
+				<string>437e0b2d-6636-4c75-9e92-ecd1fc5444e5</string>
 				<key>PayloadDisplayName</key>
 				<string>Cloudflare (1.1.1.1) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

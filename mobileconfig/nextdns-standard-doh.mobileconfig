@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://nextdns.io/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.dd245b3c-3502-4aad-bc7d-bc9db38a32b5</string>
+		<string>f2c5631d-8ee2-43b2-8666-a6b5552806d6</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>df68815e-dea5-4f13-8b8e-8bc562f6ea7c</string>
+		<string>89aefc0b-9021-48e1-8083-1e552e1e4fcc</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://nextdns.io/privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.e3bb91ba-a7ee-4854-9783-8eb9459e0b67</string>
+				<string>c32b55b7-fbae-4620-a9cc-21454247753b</string>
 				<key>PayloadUUID</key>
-				<string>47003edd-169f-4ea8-b7ae-b082c2865a6f</string>
+				<string>d6d63279-0d17-446e-98a3-9071ad7b36d4</string>
 				<key>PayloadDisplayName</key>
 				<string>NextDNS (Standard / Unfiltered) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

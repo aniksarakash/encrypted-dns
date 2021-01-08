@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.481b486b-920e-42ca-af5e-f9d62ea990be</string>
+		<string>7ceea522-fa35-4244-8ea7-bda4249042e4</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>e6030f10-0a65-4674-9a5b-d15821f50893</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://blahdns.com</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.414cf7e6-5edf-4ea8-88b2-948e99548a33</string>
+				<string>5ea517ba-7d0b-4a15-8370-62cbe2db0cef</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>4a7897a7-a8c4-499b-b0ec-2dd4ec7dd268</string>
 				<key>PayloadDisplayName</key>
 				<string>BlahDNS (Germany) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

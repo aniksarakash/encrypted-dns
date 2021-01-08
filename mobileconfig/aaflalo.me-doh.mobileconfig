@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.3327f940-afb7-4e58-860b-3af1b7d2efd8</string>
+		<string>82391781-733e-4e8c-9bfb-fe1a3d2a1813</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>f2d27353-3cce-4aa1-831c-6bdd59a8456a</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.e13efe8e-fe4d-4959-842e-ce1988c3a0a5</string>
+				<string>9014d01f-7235-40c7-85df-8fb6198667f1</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>c7e0ccb3-05f3-4eba-b16d-f24800bdbd1d</string>
 				<key>PayloadDisplayName</key>
 				<string>aaflalo.me DNS over HTTPS</string>
 				<key>PayloadVersion</key>

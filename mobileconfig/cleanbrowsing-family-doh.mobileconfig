@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://cleanbrowsing.org/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.97557d17-d98e-4b61-bfcd-83452ec4f70e</string>
+		<string>0f01c8fd-8667-49bc-a747-b0f6eb771b35</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>9ba4ead7-2427-491c-b75a-5cc60718eff1</string>
+		<string>dd3b1ebc-f8c8-40e7-97ae-2e5b8bc583d4</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://cleanbrowsing.org/privacy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.3b5c8f90-8043-4acf-a2ec-e19bdcb2a1e0</string>
+				<string>ccfbcc00-3b9c-4f14-ad06-8ae07f797b61</string>
 				<key>PayloadUUID</key>
-				<string>72dc3711-bd8a-4a90-a9fb-710d25f5ff76</string>
+				<string>b489bfb2-427f-484f-86dd-113ca1e43e1b</string>
 				<key>PayloadDisplayName</key>
 				<string>CleanBrowsing (Family Filter) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

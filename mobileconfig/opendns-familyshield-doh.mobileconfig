@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.19c5d5fc-1644-4ad9-8dc9-899bc0e2c44d</string>
+		<string>2f0c2bbd-bc97-4e3c-97a8-c3ff0fd51e91</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>5485251d-817f-47fe-9115-660adddae21d</string>
+		<string>ab93bade-909e-4fd3-bdb8-63b72d294466</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -47,9 +47,9 @@ https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.e0bff2ef-dd51-45df-ae4f-d502a9788784</string>
+				<string>aa1d2380-eae2-48f6-9b53-cd3df8602739</string>
 				<key>PayloadUUID</key>
-				<string>8c076c96-194d-4fe4-8d40-0752c869d630</string>
+				<string>b1662e41-e59e-4b8b-848f-a0596f687fe0</string>
 				<key>PayloadDisplayName</key>
 				<string>OpenDNS (FamilyShield) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

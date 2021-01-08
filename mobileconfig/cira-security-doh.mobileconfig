@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://www.cira.ca/policy/corporate/cira-privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.7fd529ff-a2d8-4a2b-9d62-95b798d14bd4</string>
+		<string>0e513f01-1857-4dcf-979d-77a3be7fffac</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>cc312ff4-24ec-4e5d-a32d-6d1cc2750ed4</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://www.cira.ca/policy/corporate/cira-privacy-policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.66f7310a-5af2-4763-b40c-26331ccf342d</string>
+				<string>6093b963-2f33-4ce8-aac0-cb257795fc7e</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>63eb6cb4-4583-403b-a3f1-6f1f1d594ded</string>
 				<key>PayloadDisplayName</key>
 				<string>CIRA Canadian Shield (Security) DNS over HTTPS</string>
 				<key>PayloadVersion</key>

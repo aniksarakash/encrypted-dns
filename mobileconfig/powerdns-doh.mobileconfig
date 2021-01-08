@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://powerdns.org/doh/privacy.html</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.81be7f05-0e77-4344-a7eb-d2d60602039e</string>
+		<string>901cfa0a-9290-482a-bacd-d42307919017</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>b4f3cde2-001f-4b68-acb3-89629b340c7b</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://powerdns.org/doh/privacy.html</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.1a3f18c4-8e27-4ff2-ba38-f1da72c19132</string>
+				<string>c1b37a9c-3b6e-48f1-b109-b321d3c2e8da</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>1e0b5fc5-58d8-470a-ae8e-c72ff6b6e07a</string>
 				<key>PayloadDisplayName</key>
 				<string>PowerDNS DNS over HTTPS</string>
 				<key>PayloadVersion</key>

@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://quad9.net/policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.88ced91f-3a79-4ffa-8692-0df6a4f967dd</string>
+		<string>6a521367-41cf-4a54-aa41-832f977d04c5</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>c1b8bc57-e874-4a24-a575-5f8d7b6dfbe2</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -46,9 +46,9 @@ https://quad9.net/policy</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.1824a829-94b9-4308-b603-d0849c532944</string>
+				<string>4b51080c-75cb-46e9-9718-3c1711a12e19</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>91d30ace-7648-4dc0-a5a2-5c36cc14c62b</string>
 				<key>PayloadDisplayName</key>
 				<string>Quad9 ECS DNS over HTTPS</string>
 				<key>PayloadVersion</key>

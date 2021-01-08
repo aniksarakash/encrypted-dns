@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.3a696c1d-0a5c-483c-832d-e2010daf43f7</string>
+		<string>a7db5914-98f4-4e74-bba1-0a8f372951b0</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+		<string>17eda01f-d01b-4de0-af05-ab1f9c07659d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -44,9 +44,9 @@ https://blahdns.com</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.3a35d0f8-4717-43e5-a01e-239acb62d0c9</string>
+				<string>ba4a6e83-fd37-420e-a8aa-b211c5ab19ea</string>
 				<key>PayloadUUID</key>
-				<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+				<string>381f7e88-72c5-4269-81bb-00f48e4d13c1</string>
 				<key>PayloadDisplayName</key>
 				<string>BlahDNS (Finland) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
