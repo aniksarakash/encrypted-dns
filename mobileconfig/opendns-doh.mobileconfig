@@ -36,10 +36,7 @@ https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
 					<key>ServerAddresses</key>
 					<array>
 						<string>146.112.41.2</string>
-						<string>2620:119:35::35</string>
-						<string>208.67.220.220</string>
-						<string>2620:119:53::53</string>
-						<string>208.67.222.222</string>
+						<string>2620:119:fc::2</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh.opendns.com/dns-query</string>
