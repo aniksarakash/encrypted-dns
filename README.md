@@ -35,6 +35,7 @@ You can use these online tools for validating your DNS resolver:
 - https://browserleaks.com/dns
 - https://dnsleaktest.com
 - https://ipleak.net
+- https://which.nameserve.rs
 
 ## Note
 
