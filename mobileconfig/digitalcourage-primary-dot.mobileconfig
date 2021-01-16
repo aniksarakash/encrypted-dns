@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Digitalcourage (Primary) DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Digitalcourage (Primary) DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://digitalcourage.de/support/zensurfreier-dns-server</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>9c400eed-16ea-4757-b305-c08dc9464207</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>77d9b92d-a67e-488c-bd5d-2294cefc1d72</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>46.182.19.48</string>
+						<string>2a02:2970:1002::18</string>
+					</array>
+					<key>ServerName</key>
+					<string>dns2.digitalcourage.de</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>8416847c-b281-4c47-baed-2f4c204a7bc1</string>
+				<key>PayloadUUID</key>
+				<string>98f3eb2e-375c-4e10-8ee0-25edf140158d</string>
+				<key>PayloadDisplayName</key>
+				<string>Digitalcourage (Primary) DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
