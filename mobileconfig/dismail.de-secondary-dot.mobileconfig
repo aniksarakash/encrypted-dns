@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>dismail.de (Secondary) DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables dismail.de (Secondary) DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://dismail.de/info.html#dns</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>2ec1550b-cc30-4d1e-b68e-a428982b0cc2</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>aae8041d-6a0c-4911-92e8-f841dcbee0a8</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>159.69.114.157</string>
+						<string>2a01:4f8:c17:739a::2</string>
+					</array>
+					<key>ServerName</key>
+					<string>fdns2.dismail.de</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>b7d001ab-309a-4a5f-adf4-8940394f19a5</string>
+				<key>PayloadUUID</key>
+				<string>cff6a886-b541-4a5d-9239-3f5ac69b8724</string>
+				<key>PayloadDisplayName</key>
+				<string>dismail.de (Secondary) DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
