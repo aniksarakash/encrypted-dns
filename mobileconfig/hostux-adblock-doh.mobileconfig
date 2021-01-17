@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Hostux (Adblock) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Hostux (Adblock) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://dns.hostux.net</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>fc3cb427-6867-48d4-920c-e207d6d279b2</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>e36e081c-cb38-40f1-b1ab-d5352ae05e37</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>185.26.126.37</string>
+						<string>2001:4b98:dc2:43:216:3eff:fe75:cd60</string>
+						<string>185.26.126.14</string>
+						<string>2001:4b98:dc2:43:216:3eff:fe86:1d28</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://dns.hostux.net/ads</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>510475ec-5434-43e2-ba9a-99e595288720</string>
+				<key>PayloadUUID</key>
+				<string>c6401c8f-d8b6-4b24-a710-3c7be29bd47c</string>
+				<key>PayloadDisplayName</key>
+				<string>Hostux (Adblock) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
