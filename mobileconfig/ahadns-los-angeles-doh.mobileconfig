@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>AhaDNS (US) DNS over HTTPS</string>
+		<string>AhaDNS (Los Angeles) DNS over HTTPS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables AhaDNS (US) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables AhaDNS (Los Angeles) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -48,7 +48,7 @@ https://ahadns.com/privacy-policy</string>
 				<key>PayloadUUID</key>
 				<string>ae3cdc7a-95e3-4ace-a7f3-27e639aba1c4</string>
 				<key>PayloadDisplayName</key>
-				<string>AhaDNS (US) DNS over HTTPS</string>
+				<string>AhaDNS (Los Angeles) DNS over HTTPS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
