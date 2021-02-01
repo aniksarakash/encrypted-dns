@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Faelix Privacy DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Faelix Privacy DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://faelix.net/privacy</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>bc681cdd-de3e-437b-a141-fca9b2547900</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>1fa8328e-6335-4914-ac66-89425397d2b7</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>46.227.200.52</string>
+						<string>46.227.203.52</string>
+						<string>46.227.207.52</string>
+						<string>185.134.196.52</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://pdns.faelix.net</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>6a059ab0-4a6b-4ec4-95be-a5c84f8a0ae9</string>
+				<key>PayloadUUID</key>
+				<string>29a6560b-69a6-4a0f-b2a3-165efb9d9f1d</string>
+				<key>PayloadDisplayName</key>
+				<string>Faelix Privacy DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
