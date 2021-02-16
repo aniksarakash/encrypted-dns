@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>SWITCH DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables SWITCH DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://www.switch.ch/security/info/public-dns</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>11516830-7fdc-4758-a31c-a7e66e97e262</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>b5c229d1-39c0-4f47-ba73-cd3f626f556d</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>130.59.31.248</string>
+						<string>2001:620:0:ff::2</string>
+						<string>130.59.31.251</string>
+						<string>2001:620:0:ff::3</string>
+					</array>
+					<key>ServerName</key>
+					<string>dns.switch.ch</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>2d20bb30-f323-48c7-9d52-c6a719b3ef34</string>
+				<key>PayloadUUID</key>
+				<string>176caa64-bf62-48ca-ac74-707ad1d4073e</string>
+				<key>PayloadDisplayName</key>
+				<string>SWITCH DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
