@@ -35,8 +35,8 @@ https://blahdns.com</string>
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>45.32.55.94</string>
-						<string>2001:19f0:7001:3259:5400:02ff:fe71:0bc9</string>
+						<string>139.162.112.47</string>
+						<string>2400:8902::f03c:92ff:fe27:344b</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh-jp.blahdns.com/dns-query</string>
