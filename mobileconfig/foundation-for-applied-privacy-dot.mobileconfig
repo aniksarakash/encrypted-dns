@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>Foundation for Applied Privacy DNS over HTTPS</string>
+		<string>Foundation for Applied Privacy DNS over TLS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Foundation for Applied Privacy DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables Foundation for Applied Privacy DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://applied-privacy.net/privacy-policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>3a32fa3a-ed4f-47dd-b1a2-c5cd4a06c03c</string>
+		<string>df8b764f-4828-4436-93b5-8c40fe47fc12</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>e73e7300-e2b6-4bf1-9e70-9e966bca963f</string>
+		<string>a75ec709-aedb-4bc5-a616-37e4c49a55d6</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -32,23 +32,23 @@ https://applied-privacy.net/privacy-policy</string>
 				<key>DNSSettings</key>
 				<dict>
 					<key>DNSProtocol</key>
-					<string>HTTPS</string>
+					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
 						<string>146.255.56.98</string>
 						<string>2a02:1b8:10:234::2</string>
 					</array>
-					<key>ServerURL</key>
-					<string>https://doh.applied-privacy.net/query</string>
+					<key>ServerName</key>
+					<string>dot1.applied-privacy.net</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>d9c0d03d-1c56-4573-b317-109f50639b23</string>
+				<string>595a0b6f-5ec8-4998-91f0-bc0b3b26f039</string>
 				<key>PayloadUUID</key>
-				<string>358bfa6d-a924-421a-acfb-ec852856854d</string>
+				<string>08870069-2449-4ad9-bbbf-5ea2a050501f</string>
 				<key>PayloadDisplayName</key>
-				<string>Foundation for Applied Privacy DNS over HTTPS</string>
+				<string>Foundation for Applied Privacy DNS over TLS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
