@@ -3,11 +3,11 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadDisplayName</key>
-		<string>Quad9 (ECS support) DNS over HTTPS</string>
+		<string>Quad9 (ECS support) DNS over TLS</string>
 		<key>PayloadOrganization</key>
 		<string>encrypted-dns.party</string>
 		<key>PayloadDescription</key>
-		<string>This profile enables Quad9 with extended client subnet DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+		<string>This profile enables Quad9 with extended client subnet DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
 
 Downloaded from encrypted-dns.party.</string>
 		<key>ConsentText</key>
@@ -17,13 +17,13 @@ Downloaded from encrypted-dns.party.</string>
 https://quad9.net/policy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>6a521367-41cf-4a54-aa41-832f977d04c5</string>
+		<string>65840e4e-c132-4c9b-9473-7c131f4e4a44</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>c1b8bc57-e874-4a24-a575-5f8d7b6dfbe2</string>
+		<string>965feebf-5340-49ef-95ee-b7b4c3b4ab92</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadContent</key>
@@ -32,7 +32,7 @@ https://quad9.net/policy</string>
 				<key>DNSSettings</key>
 				<dict>
 					<key>DNSProtocol</key>
-					<string>HTTPS</string>
+					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
 						<string>9.9.9.11</string>
@@ -40,17 +40,17 @@ https://quad9.net/policy</string>
 						<string>149.112.112.11</string>
 						<string>2620:fe::fe:11</string>
 					</array>
-					<key>ServerURL</key>
-					<string>https://dns11.quad9.net/dns-query</string>
+					<key>ServerName</key>
+					<string>dns11.quad9.net</string>
 				</dict>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadIdentifier</key>
-				<string>4b51080c-75cb-46e9-9718-3c1711a12e19</string>
+				<string>7471afe4-2fa5-4f18-82fb-4eef45433691</string>
 				<key>PayloadUUID</key>
-				<string>91d30ace-7648-4dc0-a5a2-5c36cc14c62b</string>
+				<string>f2aace3a-d898-40b3-85d3-0f513ce8ab67</string>
 				<key>PayloadDisplayName</key>
-				<string>Quad9 (ECS support) DNS over HTTPS</string>
+				<string>Quad9 (ECS support) DNS over TLS</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
