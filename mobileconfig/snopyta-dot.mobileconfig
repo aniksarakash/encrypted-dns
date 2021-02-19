@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Snopyta DNS over TLS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Snopyta DNS over TLS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://snopyta.org/privacy_policy</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>c8a331dd-a11b-4ba0-b9d5-3ba6e7af209d</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>8a372c87-cc48-4388-ad3e-d89682ad31c7</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>95.216.24.230</string>
+						<string>2a01:4f9:2a:1919::9301</string>
+					</array>
+					<key>ServerName</key>
+					<string>fi.dot.dns.snopyta.org</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>4a19688e-ee95-45c1-9df0-395036bf71f4</string>
+				<key>PayloadUUID</key>
+				<string>6c913abe-73c3-46c5-b0f4-8d532949af4a</string>
+				<key>PayloadDisplayName</key>
+				<string>Snopyta DNS over TLS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
