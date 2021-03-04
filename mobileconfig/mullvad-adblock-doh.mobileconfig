@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadDisplayName</key>
+		<string>Mullvad (Adblock) DNS over HTTPS</string>
+		<key>PayloadOrganization</key>
+		<string>encrypted-dns.party</string>
+		<key>PayloadDescription</key>
+		<string>This profile enables Mullvad (Adblock) DNS over HTTPS on all networks using the iOS 14 / iPadOS 14 / tvOS 14 / macOS Big Sur Encrypted DNS feature.
+
+Downloaded from encrypted-dns.party.</string>
+		<key>ConsentText</key>
+		<dict>
+			<key>default</key>
+			<string>Privacy policy:
+https://mullvad.net/help/privacy-policy/</string>
+		</dict>
+		<key>PayloadIdentifier</key>
+		<string>5b9f7cf6-70a6-4499-ae01-a503ff779e88</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>30213cf7-0a84-497e-8391-17790bdd4410</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>194.242.2.3</string>
+						<string>193.19.108.3</string>
+						<string>2a07:e340::3</string>
+					</array>
+					<key>ServerURL</key>
+					<string>https://adblock.doh.mullvad.net/dns-query</string>
+				</dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadIdentifier</key>
+				<string>39e47935-8149-4899-bb8e-41fba82e445a</string>
+				<key>PayloadUUID</key>
+				<string>3a9e0cf2-e595-4534-9e70-f70f3fd23a21</string>
+				<key>PayloadDisplayName</key>
+				<string>Mullvad (Adblock) DNS over HTTPS</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</plist>
