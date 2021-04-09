@@ -35,8 +35,7 @@ https://blahdns.com</string>
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>185.93.1.242</string>
-						<string>2a02:6ea0:c605::2</string>
+						<string>209.58.131.100</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh1.blahdns.com/uncensor</string>
