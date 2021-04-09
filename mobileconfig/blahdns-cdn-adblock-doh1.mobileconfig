@@ -33,11 +33,6 @@ https://blahdns.com</string>
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>185.93.1.242</string>
-						<string>2a02:6ea0:c605::2</string>
-					</array>
 					<key>ServerURL</key>
 					<string>https://doh1.blahdns.com/dns-query</string>
 				</dict>
