@@ -35,8 +35,8 @@ https://blahdns.com</string>
 					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>45.90.57.121</string>
-						<string>2a05:9406::175</string>
+						<string>45.91.92.121</string>
+						<string>2a0e:dc0:6:23::2</string>
 					</array>
 					<key>ServerName</key>
 					<string>dot-ch.blahdns.com</string>
