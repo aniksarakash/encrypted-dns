@@ -35,7 +35,7 @@ https://blahdns.com</string>
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>209.58.131.100</string>
+						<string>45.35.205.78</string>
 					</array>
 					<key>ServerURL</key>
 					<string>https://doh1.blahdns.com/dns-query</string>
